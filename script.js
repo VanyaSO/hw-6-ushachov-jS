@@ -1,3 +1,5 @@
+"use strict";
+
 // Task #1
 
 let user = {
